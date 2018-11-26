@@ -1,0 +1,1 @@
+{"virtualbox":{"/usr/share/nginx/html":{"guestpath":"/usr/share/nginx/html","hostpath":"C:/wamp64/www/testvagrant","disabled":false,"__vagrantfile":true}}}
